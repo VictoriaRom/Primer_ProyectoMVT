@@ -9,4 +9,4 @@ $python ./manage.py runserver
 
 #Luego en la urls:
 
-http://127.0.0.1:8000/ver-personas
+http://127.0.0.1:8000/
